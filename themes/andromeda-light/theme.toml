@@ -1,0 +1,10 @@
+name = "Pextra Website"
+license = "MIT"
+licenselink = "https://github.com/PextraCloud/website/blob/master/LICENSE"
+description = " The website at https://pextra.cloud."
+homepage = "https://github.com/PextraCloud/website"
+min_version = "0.83.1"
+
+[author]
+name = "gethugothemes"
+homepage = "https://gethugothemes.com/"

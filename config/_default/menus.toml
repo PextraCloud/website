@@ -1,0 +1,74 @@
+# main menu
+[[main]]
+name = "About"
+url = "about/"
+weight = 500
+
+[[main]]
+name = "Products"
+url = "products/"
+weight = 200
+hasChildren = true
+
+	[[main]]
+	parent = "Products"
+	name = "CloudEnvironment"
+	url = "products/cloudenvironment/"
+	weight = 1
+
+[[main]]
+name = "Services"
+url = "services/"
+weight = 300
+hasChildren = true
+
+	[[main]]
+	parent = "Services"
+	name = "Consulting"
+	url = "services/consulting/"
+	weight = 1
+
+	[[main]]
+	parent = "Services"
+	name = "Training"
+	url = "services/training/"
+	weight = 2
+
+	[[main]]
+	parent = "Services"
+	name = "Support"
+	url = "services/support/"
+	weight = 3
+
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 600
+
+[[main]]
+name = "Contact"
+url = "cotact/"
+weight = 400
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Blog"
+url = "blog/"
+weight = 2
+
+[[footer]]
+name = "Blog Details"
+url = "blog/post-1/"
+weight = 3
+
+[[footer]]
+name = "Terms & Conditions"
+url = "terms-and-conditions/"
+weight = 4
