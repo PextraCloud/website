@@ -1,9 +1,9 @@
 ---
 # banner
 banner:
-  title: "Scale Up Your Business with Confidence"
-  subtitle: "Try [Pextra CloudEnvironment](/products/cloudenvironment), the most advanced, modernized datacenter managment platform **ever created**."
-  button: "Get Premium Version"
+  title: "Scale Your Private Cloud with Confidence"
+  subtitle: "Introducing [**Pextra CloudEnvironment**](/products/cloudenvironment), the up-and-coming revolutionary datacenter management platform, the most advanced yet.<br>Stay tuned for its launch, coming soon."
+  button: "Read More"
   button_link: "https://gethugothemes.com/products/andromeda/"
   image: "images/banner-app.png"
 
@@ -26,32 +26,29 @@ brands_carousel:
 
 features:
   enable: true
-  title: "Designed For The Future"
-  description: "CloudEnvironment revolutionizes the way you manage your datacenter."
+  title: "Hyperconverged, But Without The Lock-In"
+  description: "**CloudEnvironment** revolutionizes the way you manage your datacenter."
   features_blocks:
+  - icon: "las la-cloud"
+    title: "Virtualization Compatibility"
+    content: "**CloudEnvironment** is compatible with all major virtualization technologies, including KVM, LXC, and Docker/Podman. Migration from other platforms is easy, and you can even run **CloudEnvironment** on top of your existing virtualization platform."
   - icon: "las la-lock"
-    title: "Updated Security"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-tachometer-alt"
-    title: "Secured &amp; up-to-date"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-link"
-    title: "Instant Link Sharing"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-lock"
-    title: "Updated Security"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
-  - icon: "las la-magnet"
-    title: "Magnetic Turning"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
+    title: "Security-First"
+    content: "Based on a hardened version of Debian, **CloudEnvironment** is designed with security in mind. Secrets management with HashiCorp Vault is also supported out-of-the-box. With granular permissions, segmentation at any level is possible, and with other important security features, a secure datacenter is easier to achieve."
+  - icon: "las la-server"
+    title: "DCIM Made Easy"
+    content: "With **CloudEnvironment**, you can manage your entire infrastructure from a single view. Integration with modern DCIM solutions such as NetBox are readily available."
+  - icon: "las la-life-ring"
+    title: "Simple To Learn"
+    content: "The **CloudEnvironment** platform is easy to learn, and is designed to be as intuitive as possible. Documentation is available for all features, and our support team is always available to help. With a rich API, easy-to-use CLI, and a web-based UI, **CloudEnvironment** is meant to be accessible to all users."
 
+  - icon: "las la-user-friends"
+    title: "Multi-DC, Multi-Org"
+    content: "With **CloudEnvironment**, you can manage a single cluster, or multiple datacenters, all from a single view. With multi-tenancy, you can segment your infrastructure into multiple organizations, and even delegate management to other users."
 
 # intro_video
 intro_video:   
-  enable: true
+  enable: false
   subtitle: "Short Intro Video"
   title: "Built exclusively for you"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
@@ -76,7 +73,7 @@ how_it_works:
 
 # testimonials
 testimonials:   
-  enable: true
+  enable: false
   subtitle: "Our Testimonials"
   title: "Don't take our word for it"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
