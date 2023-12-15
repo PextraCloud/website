@@ -57,7 +57,7 @@ link = "/products/cloudenvironment#demo"
 enable = true
 expire_days = 2
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
-button = "Agree"
+button = "Close"
 
 # call-to-action
 [cta]
