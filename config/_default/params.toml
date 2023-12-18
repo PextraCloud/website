@@ -8,7 +8,7 @@ logo_width = "240x"
 # logo text will only show when logo is missing.
 logo_text = "Pextra"
 # OpenGraph / Twitter Card metadata
-description = "Pextra todo"
+description = "Pextra is a software company offering cutting-edge solutions for cloud, datacenter, and other environments. We also provide expert consulting, training, and more."
 author = "Pextra Inc."
 image = "images/logo.png"                # this image will be used as fallback if a page has no image of its own
 
