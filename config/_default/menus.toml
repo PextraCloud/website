@@ -30,7 +30,7 @@ hasChildren = true
 
 	[[main]]
 	parent = "Services"
-	name = "Training"
+	name = "Training & Certification"
 	url = "services/training/"
 	weight = 2
 

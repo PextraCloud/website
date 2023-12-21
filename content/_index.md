@@ -38,7 +38,7 @@ features:
 	"
 
   - icon: "las la-lock"
-    title: "Security-Focused"
+    title: "Secure"
     content: "
 	* Based on a hardened version of Debian
 	<li>Secrets management with HashiCorp Vault</li>
@@ -78,7 +78,7 @@ features:
   - icon: "las la-rocket"
     title: "And More"
     content: "
-	<li>**Enterprise Edition** available with more features</li>
+	* **Enterprise Edition** available with more features
 	<li>24/7/365 support available</li>
 	<li>And much more!</li>
 	"
@@ -98,22 +98,22 @@ how_it_works:
   - subtitle: "What we did"
     title: "We Learned From Past Mistakes"
     description: "Existing datacenter management solutions are either too expensive, too complex, or both. We decided to change that.<br>We built **CloudEnvironment** from the ground up to be the most advanced yet easy-to-use datacenter management platform."
-    image: "images/features-01.png"
+    image: "null-images/features-01.png"
 
   - subtitle: "Putting IAC to work"
     title: "Easy To Automate"
     description: "Automation is the future. We built **CloudEnvironment** with automation in mind.<br>**CloudEnvironment** is built on top of an expressive and modular API, and is fully compatible with all major automation tools, including Ansible, and Terraform."
-    image: "images/features-02.png"
+    image: "null-images/features-02.png"
 
   - subtitle: "Built for the future"
     title: "Designed For Scalability"
     description: "We know that your datacenter is constantly growing. We built **CloudEnvironment** to be able to scale with you.<br>**CloudEnvironment** is designed to be able to scale to thousands of nodes."
-    image: "images/features-03.png"
+    image: "null-images/features-03.png"
 
   - subtitle: "Security is our priority"
     title: "Security-Focused"
     description: "Security is our top priority. Countless hours have been spent to ensure that **CloudEnvironment** is as secure as possible."
-    image: "images/features-04.png"
+    image: "null-images/features-04.png"
 
 
 # testimonials

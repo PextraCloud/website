@@ -33,8 +33,8 @@ reading_time = true
 # contact information
 [contact_info]
 address = "2118 Thornridge Cir. Syracuse, Connecticut 35624"
-phone = ["+704-555-0127", "+205-857-2321", "+002-569-6969"]
-email = ["enterprise@pextra.cloud", "support@pextra.cloud"]
+phone = []
+email = ["sales@pextra.cloud"]
 
 # imaging processing
 [imaging]
@@ -63,9 +63,9 @@ button = "Close"
 [cta]
 enable = true
 title = "Meet With Our Experts"
-content = "Find out how Pextra can help your business.<br>Get a *free* migration plan with a timeline and cost estimate."
+content = "Find out how Pextra can help your business.<br>Get a free migration plan with a timeline and cost estimate."
 button = "Contact Us"
-button_link = "https://gethugothemes.com/products/andromeda/"
+button_link = "/contact"
 
 ############################# social site ########################
 [[social]]
